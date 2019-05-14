@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java 偏向锁、轻量级锁及重量级锁synchronized原理](https://www.swfcp.cn/articles/2019/05/14/1557814689459.html)
 * [十大经典排序算法](https://www.swfcp.cn/articles/2019/05/13/1557744007350.html)
 * [集群部署时分布式session的实现](https://www.swfcp.cn/articles/2019/05/13/1557733578326.html)
 * [如何基于Dubbo进行服务治理、降级等](https://www.swfcp.cn/articles/2019/05/13/1557732863407.html)
