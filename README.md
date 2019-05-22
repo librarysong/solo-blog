@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [深度解读 java 线程池设计思想及源码实现](https://www.swfcp.cn/articles/2019/05/20/1558340873328.html)
 * [我在 GitHub 上的开源项目](https://www.swfcp.cn/my-github-repos)
 * [反转字符串 II](https://www.swfcp.cn/articles/2019/05/17/1558057774160.html)
 * [OAuth 2.0 的四种方式](https://www.swfcp.cn/articles/2019/05/15/1557903641493.html)
@@ -29,6 +30,9 @@
 * [HotSpot JVM 内存管理](https://www.swfcp.cn/articles/2019/05/10/1557476664178.html)
 * [Java并发编程：volatile关键字解析](https://www.swfcp.cn/articles/2019/05/10/1557468906175.html)
 * [CentOS 7 安装 JAVA环境（JDK 1.8)](https://www.swfcp.cn/articles/2019/05/10/1557459966891.html)
+
+### 热门
+
 * [关于我](https://www.swfcp.cn/about)
 
 
