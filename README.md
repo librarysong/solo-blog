@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [一文带你了解Java Agent](https://www.swfcp.cn/articles/2019/09/19/1568854606142.html)
 * [IntelliJ IDEA 内存配置](https://www.swfcp.cn/articles/2019/08/05/1564995586110.html)
 * [JVM堆外内存详解](https://www.swfcp.cn/articles/2019/05/31/1559289960961.html)
 * [Spring AOP @Aspect的使用记录](https://www.swfcp.cn/articles/2019/05/28/1559032334679.html)
@@ -29,12 +30,12 @@
 * [Dubbo的spi思想](https://www.swfcp.cn/articles/2019/05/13/1557731851404.html)
 * [Dubbo 负载均衡策略和集群容错](https://www.swfcp.cn/articles/2019/05/13/1557731444338.html)
 * [Dubbo的序列化协议](https://www.swfcp.cn/articles/2019/05/13/1557730563739.html)
-* [Dubbo的工作原理](https://www.swfcp.cn/articles/2019/05/13/1557730360575.html)
 
 ### 热门
 
 * [关于我](https://www.swfcp.cn/about)
 * [CentOS 7 安装 JAVA环境（JDK 1.8)](https://www.swfcp.cn/articles/2019/05/10/1557459966891.html)
+* [Dubbo的工作原理](https://www.swfcp.cn/articles/2019/05/13/1557730360575.html)
 * [G1 垃圾收集器介绍](https://www.swfcp.cn/articles/2019/05/10/1557478639155.html)
 * [翻转二叉树](https://www.swfcp.cn/articles/2019/05/13/1557713695277.html)
 * [二分查找算法](https://www.swfcp.cn/articles/2019/05/13/1557717236016.html)
