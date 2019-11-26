@@ -39,8 +39,8 @@
 * [Dubbo的工作原理](https://www.swfcp.cn/articles/2019/05/13/1557730360575.html)
 * [二分查找算法](https://www.swfcp.cn/articles/2019/05/13/1557717236016.html)
 * [翻转二叉树](https://www.swfcp.cn/articles/2019/05/13/1557713695277.html)
-* [Java并发编程：volatile关键字解析](https://www.swfcp.cn/articles/2019/05/10/1557468906175.html)
 * [HotSpot JVM 内存管理](https://www.swfcp.cn/articles/2019/05/10/1557476664178.html)
+* [Java并发编程：volatile关键字解析](https://www.swfcp.cn/articles/2019/05/10/1557468906175.html)
 
 
 
